@@ -1,6 +1,6 @@
 # Hi, I'm Jun 👋 | Web3 Developer & Crypto Researcher
 
-I'm a Technical Project Lead focused on building high-performance decentralized financial systems. I bridge the gap between complex trading logic and seamless user experiences in the Web3 space.
+I'm a Developer focused on building high-performance decentralized financial systems. I bridge the gap between complex trading logic and seamless user experiences in the Web3 space.
 
 ---
 
