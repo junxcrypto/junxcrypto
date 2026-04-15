@@ -1,35 +1,34 @@
-# Hi there, I'm [Tên của mày] 👋
-### Web3 Developer | Crypto Research | PERP DEX Specialist
+# Hi, I'm Jun 👋 | Web3 Developer & Crypto Researcher
 
-Dedicated to building high-performance decentralized systems and exploring the deep waters of Web3. Currently focusing on automated trading logic and cross-chain utility.
-
----
-
-### 🛠 My Technical Toolkit
-- **Blockchain:** Solidity, Aptos (Move), Web3.js, Ethers.js
-- **Trading Tech:** PERP DEX Architecture, Trading Bots (State Machine), WebSocket Integration
-- **Fullstack:** Flutter (Mobile App), TypeScript, Python
-- **DevOps/Tools:** Git, Docker, Local AI Integration
+I'm a Technical Project Lead focused on building high-performance decentralized financial systems. I bridge the gap between complex trading logic and seamless user experiences in the Web3 space.
 
 ---
 
-### 🔭 Current Focus & Projects
-- 🚀 **Perpetual DEX Development:** Building mobile-first trading experiences for SoDEX.
-- 🤖 **Automated Trading:** Crafting robust bots on Aptos & BNB Chain.
-- 🌉 **Cross-chain Solutions:** Researching and implementing efficient bridging (HyperEVM & BNB).
-- 📈 **Market Research:** Deep-diving into DeFi liquidity and tokenomics.
+### 🛠 Technical Expertise
+- **Core Dev:** Web3 Architecture, Smart Contracts, Automated Trading Bots.
+- **Specialization:** PERP DEX (Perpetual Decentralized Exchanges) & Liquidity Logic.
+- **Stack:** Solidity, Move (Aptos), Flutter (Mobile Web3 Apps), Python, TypeScript.
+- **Advanced:** State Machine Architecture for Bots, Cross-chain Bridging (HyperEVM/BNB).
+
+---
+
+### 🚀 What I'm Building
+- **Trading Systems:** Developing high-frequency trading bots with real-time WebSocket integration.
+- **DeFi Infrastructure:** Researching and implementing PERP DEX solutions for better capital efficiency.
+- **Mobile Web3:** Crafting the next generation of mobile trading interfaces (Flutter).
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_CỦA_MÀY]&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_CỦA_MÀY]&layout=compact&theme=tokyonight" alt="Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=junxcrypto&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Jun's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junxcrypto&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-[![Twitter](https://img.shields.io/badge/X-Profile-black?style=flat&logo=x)]([LINK_X_CỦA_MÀY])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([LINK_LINKEDIN_CỦA_MÀY])
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-7491f5?style=flat&logo=telegram)]([LINK_TELEGRAM])
+[![Twitter](https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x)](https://x.com/junxcrypto) 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/junxcrypto)
+
+*"Building the future of finance, one block at a time."*
